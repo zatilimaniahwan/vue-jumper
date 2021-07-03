@@ -1,4 +1,4 @@
-# vue-checklist
+# vue-jumper
 
 ## Project setup
 ```
